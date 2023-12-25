@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039018833861",
+    "project_id": "valley-soft-4d825",
+    "storage_bucket": "valley-soft-4d825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039018833861:android:32fdccca002e90d839bdac",
+        "android_client_info": {
+          "package_name": "com.developeralamin.valleysoftapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMJ-HAZvR1cYK-CP7DSJkYhdkB-iNbvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
